@@ -1,5 +1,6 @@
 # Android
 ## Prerequisites
+0. fnm:   `cargo install fnm`, add `eval "$(fnm env)"` to your .bashrc
 1. Yarn
 2. NodeJS (recommended version 17+)
 3. Rust (https://www.rust-lang.org/tools/install)
